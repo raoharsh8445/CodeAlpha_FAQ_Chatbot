@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is AI?",
+    "answer": "AI stands for Artificial Intelligence. It enables machines to perform tasks that normally require human intelligence."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a branch of AI that allows computers to learn from data without being explicitly programmed."
+  },
+  {
+    "question": "What is Python?",
+    "answer": "Python is a popular programming language used for web development, AI, data science, and automation."
+  },
+  {
+    "question": "What is HTML?",
+    "answer": "HTML stands for HyperText Markup Language. It is used to create web pages."
+  },
+  {
+    "question": "What is CSS?",
+    "answer": "CSS is used to style HTML pages by adding colors, fonts, spacing, and layouts."
+  },
+  {
+    "question": "What is JavaScript?",
+    "answer": "JavaScript is a programming language used to make web pages interactive."
+  }
+]
